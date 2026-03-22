@@ -111,6 +111,10 @@ client_script "dlc_afterhours/nightclubs.lua"
 client_script "dlc_casino/casino.lua"
 client_script "dlc_casino/penthouse.lua"
 
+-- Interior Culling Fixes (Credits to Cerus)
+client_script "interior_culling/data.lua"
+client_script "interior_culling/interior.lua"
+
 client_script "arp-properties.lua"
 
 fx_version 'cerulean'
