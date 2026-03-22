@@ -25,6 +25,9 @@
 </td>
 </tr>
 </table>
+
+[Original Forums Thread](https://forum.cfx.re/t/free-standalone-interior-culling-fixes/5391395)
+[Original GitHub Post](https://github.com/cerus/interior_culling/tree/main)
 </div>
 
 ---
