@@ -11,6 +11,9 @@
 -- Props list:			https://wiki.gt-mp.net/index.php/InteriorPropList
 -- Interior ID list : 	https://wiki.gt-mp.net/index.php/InteriorIDList
 --
+version '1.0.0'
+repository 'https://github.com/Mythic-Framework/mythic-ipl'
+
 
 client_script "lib/common.lua"
 client_script "lib/observers/interiorIdObserver.lua"
